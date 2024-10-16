@@ -1,0 +1,2 @@
+Tn this algotrading model we have modelled the cryptomarket using XG-Boost while taking Technical indicators and mathematical ratios as features, we have used log returns in our calculations as they are additive and calculaitons like sharpe ratios can be easily calculated using log returns instead of normal returns,
+we have also proved in the model that log returns follows t-distribution with an ideal sample size of 38, and using this property we have esitimated the long short split we should invest in the market.
